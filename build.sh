@@ -1,0 +1,1 @@
+gcloud builds submit --tag gcr.io/llm-agent-414413/helpgenius-api
