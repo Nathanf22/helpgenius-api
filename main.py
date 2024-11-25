@@ -85,7 +85,7 @@ class UserInDB(User):
 
 # to get a string like this run:
 # openssl rand -hex 32
-SECRET_KEY = "3d8cb47c0ddf20f6146c3565fb7c113086b90260ddbfdeab8db931cc137e47c7"
+SECRET_KEY = ""
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 upload_folder = "/home/nathan/Projects/upload/"
